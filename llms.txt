@@ -1,0 +1,52 @@
+# Geotechnical Engineering — Saint-Jerome
+
+> Geotechnical engineering services in Saint-Jerome, Canada.
+
+## Services
+- [Anchors](https://saint-jerome.geotechnical-engineering.org/anchors/)
+- [Atterberg Limits](https://saint-jerome.geotechnical-engineering.org/atterberg-limits/)
+- [Cbr Road](https://saint-jerome.geotechnical-engineering.org/cbr-road/)
+- [Cpt Test](https://saint-jerome.geotechnical-engineering.org/cpt-test/)
+- [Deep Excavations](https://saint-jerome.geotechnical-engineering.org/deep-excavations/)
+- [Excavation Monitoring](https://saint-jerome.geotechnical-engineering.org/excavation-monitoring/)
+- [Excavations](https://saint-jerome.geotechnical-engineering.org/excavations/)
+- [Flexible Pavement](https://saint-jerome.geotechnical-engineering.org/flexible-pavement/)
+- [Footings](https://saint-jerome.geotechnical-engineering.org/footings/)
+- [Foundations](https://saint-jerome.geotechnical-engineering.org/foundations/)
+- [Geophysics](https://saint-jerome.geotechnical-engineering.org/geophysics/)
+- [Grain Size](https://saint-jerome.geotechnical-engineering.org/grain-size/)
+- [Ground Improvement](https://saint-jerome.geotechnical-engineering.org/ground-improvement/)
+- [Grouting](https://saint-jerome.geotechnical-engineering.org/grouting/)
+- [In Situ Permeability](https://saint-jerome.geotechnical-engineering.org/in-situ-permeability/)
+- [Investigation](https://saint-jerome.geotechnical-engineering.org/investigation/)
+- [Lab In Situ](https://saint-jerome.geotechnical-engineering.org/lab-in-situ/)
+- [Laboratory](https://saint-jerome.geotechnical-engineering.org/laboratory/)
+- [Liquefaction](https://saint-jerome.geotechnical-engineering.org/liquefaction/)
+- [Masw](https://saint-jerome.geotechnical-engineering.org/masw/)
+- [Mat Foundations](https://saint-jerome.geotechnical-engineering.org/mat-foundations/)
+- [Piles](https://saint-jerome.geotechnical-engineering.org/piles/)
+- [Plate Load Test](https://saint-jerome.geotechnical-engineering.org/plate-load-test/)
+- [Resistivity](https://saint-jerome.geotechnical-engineering.org/resistivity/)
+- [Retaining Walls](https://saint-jerome.geotechnical-engineering.org/retaining-walls/)
+- [Rigid Pavement](https://saint-jerome.geotechnical-engineering.org/rigid-pavement/)
+- [Road Geotechnics](https://saint-jerome.geotechnical-engineering.org/road-geotechnics/)
+- [Sand Cone Density](https://saint-jerome.geotechnical-engineering.org/sand-cone-density/)
+- [Seismic](https://saint-jerome.geotechnical-engineering.org/seismic/)
+- [Seismic Isolation](https://saint-jerome.geotechnical-engineering.org/seismic-isolation/)
+- [Seismic Microzonation](https://saint-jerome.geotechnical-engineering.org/seismic-microzonation/)
+- [Seismic Refraction](https://saint-jerome.geotechnical-engineering.org/seismic-refraction/)
+- [Slope Stability](https://saint-jerome.geotechnical-engineering.org/slope-stability/)
+- [Slopes](https://saint-jerome.geotechnical-engineering.org/slopes/)
+- [Soft Ground Tunnels](https://saint-jerome.geotechnical-engineering.org/soft-ground-tunnels/)
+- [Spt Drilling](https://saint-jerome.geotechnical-engineering.org/spt-drilling/)
+- [Stone Columns](https://saint-jerome.geotechnical-engineering.org/stone-columns/)
+- [Test Pits](https://saint-jerome.geotechnical-engineering.org/test-pits/)
+- [Triaxial](https://saint-jerome.geotechnical-engineering.org/triaxial/)
+- [Vibrocompaction](https://saint-jerome.geotechnical-engineering.org/vibrocompaction/)
+
+## Contact
+- Website: https://saint-jerome.geotechnical-engineering.org/
+
+## About
+This site provides geotechnical engineering services in Saint-Jerome, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
